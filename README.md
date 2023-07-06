@@ -35,7 +35,7 @@ Bu basit bir dijital saat uygulamasıdır. Kullanıcılar saat, dakika ve saniye
 
 Keyifli kullanımlar!
 
-##Lisans
+## Lisans
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
