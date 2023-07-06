@@ -7,6 +7,9 @@ Bu basit bir dijital saat uygulamasıdır. Kullanıcılar saat, dakika ve saniye
 - Tkinter: Kullanıcı arayüzü oluşturmak için
 - Pygame: Alarm sesini çalmak için
 
+## Önizleme
+
+![image](https://github.com/ugurcomptech/dijital-clock/assets/133202238/a57392ab-1128-4f7f-a5dc-265fee9c71d5)
 
 
 ## Projeyi Yükleme ve Çalıştırma
